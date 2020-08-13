@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Call Editing</string>
+    <string name="design_name">Nama Design</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="Belajar">Belajar Sekarang</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="nama_detail">Detail</string>
+    <string name="nama_design">Nama Design</string>
+    <string name="detail_design">Detail Design</string>
+    <string name="about">about</string>
+    <string name="judul">JUDUL</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="pascal_aditia_muclis">Pascal Aditia Muclis</string>
+    <string name="android_development">Android Development</string>
+    <string name="sukabumi">SUKABUMI</string>
+    <string name="univeristas_nusa_putra">UNIVERISTAS NUSA PUTRA</string>
+    <string name="_085864147378">085864147378</string>
+    <string name="pascaladitia_gmail_com">pascaladitia@gmail.com</string>
+</resources>
